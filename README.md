@@ -1,19 +1,19 @@
 # Anshu-Gupta
 # Hi there! 👋
 
-I'm [Your Name], a passionate and creative individual with a love for technology and problem-solving.
+I'm Anshu a passionate and creative individual with a love for technology and problem-solving.
 
 ## 🔧 Technologies & Tools
 
-- Programming Languages: [List of languages you're proficient in]
-- Web Technologies: [List of web technologies you're familiar with]
-- Tools: [Any specific tools or frameworks you use]
+- Programming Languages:
+- Web Technologies: 
+- Tools: 
 
 ## 🌱 Currently Learning
 
 I'm always eager to learn and explore new things. Currently, I'm focusing on:
 
-- [A topic or technology you're currently learning]
+- ReactJs
 
 ## 🚀 Projects
 
